@@ -1,0 +1,36 @@
+Tänkte bara fråga dig om vad du tror om denna idé.
+Jag skulle vilja göra ett exjobb med en AI som evolverar fram en världskarta i
+Super Metroid aktig stil.
+ 
+Så AI:n ska göra minst 2 saker, vet inte om det är lätt att evalvera mer än 1 sak men det kanske går att evalvera båda.
+ 
+1. Generera en maze/karta (enbart kartans layout inte varje rums layout)
+2. Placera ut föremål på kartan
+3. Placera ut dörrar (kanske)
+ 
+Efter första steget ska AI:n evalvera sin karta genom att t.ex. kolla om man det är möjligt att nå alla områden den placerat ut. 
+Så inget rum i kartan är omringat av t.ex. berg eller dyligt så det inte går att nå rummet. Innehållet i rummen ska inte evolveras 
+fram utan bara själva kartan.
+ 
+Efter andra steget om det inte är allt för tidskrävande för ett exjobb, ska AI:n evalvera hur "bra" placerade föremålen är genom 
+att kolla t.ex. avståndet mellan föremålen. Så inte alla hamnar 1 "ruta" ifrån varandra; den ska även inte placera två föremål 
+i samma "rum".
+ 
+Om jag implementerar tredje steget (det kanske är svårt att lära en AI att placera ut dörrar som hamnar på vettiga ställen). 
+Så vilja att den ska lära sig att placera dörrar så föremål som krävs för att öppna dörren inte hamnar bakom dessa. Så det blir 
+väl någon traversering här med för att se så man kan komma överallt. Vilket man kan låta AI:n avgöra.
+ 
+Så här ser en Super Metroid karta ut:
+http://metroid.retropixel.net/games/metroid3/metroid3_map.gif
+ 
+Rum/Områden kan se ut så här:
+http://www.snesmaps.com/maps/SuperMetroid/SuperMetroidMapMaridia.html
+ 
+Att evolvera både karta och rum som går att ta sig fram igenom känns lite övermäktigt så för tillfället håller jag mig till att "bara" 
+evolvera kartan och utplacering av föremål och ev. dörrplacering.
+ 
+Mitt problem skulle kunna vara att mäta framkomlighet, så även om kartan är väldigt konstig så går det att komma fram över den. 
+Vet inte om min idé är tydlig nog men förhoppningsvis förstår du vad jag vill göra och kan ge lite feedback, tips och idéer för detta.
+
+Användbara länkar
+http://julian.togelius.com/Cardamone2011Evolving.pdf
