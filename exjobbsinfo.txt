@@ -1,0 +1,138 @@
+                        Examensarbete
+Sanny Syberfelt - Ansvarig programmering. 15 pers.
+
+* Fas 1 - Problemdefinition & metod
+    Tyngsta delen, lägg ner bra med tid!
+
+* Fas 2 - Praktiskt arbete inkl. research
+    Leta på material, gör praktiskt arbete (gör t.ex. ett spel)
+    Spel, går spelet att använda för att besvara frågan från fas 1?
+
+* Fas 3 - Studie, resultat & slutsatser
+
+* Examensarbete klart!
+
+* Fas 2-3 - prototyp/gestaltning
+
+--------------------------------------------------------------------------------
+                                Länkar
+https://scio.his.se/portal/site/DA314G-20142-01/page/20767631-7e88-4e3a-8dd9-72b03e894e81
+http://www.karlsims.com/papers/alife94.pdf    - Evolving 3D Morphology and
+                                                Behavior by Competition
+http://www.karlsims.com/papers/siggraph94.pdf - Evolving virtual creatures
+--------------------------------------------------------------------------------
+                        Kursupplägg - Tidsplan
+* Metod- och litteraturstudier 8hp
+    Inl. 18 feb kl 12.00
+
+* Projektarbete 14hp
+    Inl. 8 april kl 12.00
+
+* Slutrapport 8hp
+    Inl. 17 maj kl 12.00
+
+--------------------------------------------------------------------------------
+                                Presenationer
+* Metod- och litteraturstudier
+    Vecka 9
+* Projektarbete
+    Vecka 16
+* Slutrapport
+    Vecka 22
+
+--------------------------------------------------------------------------------
+                                    Roller
+* Handledare A (25 timmar, inkl. läsning, 10-12 sittningar med en handledare)
+!!! Försök få Peter som handledare. Eller Theime. !!!
+    Student A
+        Bolla med handledare.
+        Bör inte säga att något är godkänt eller inte.
+
+    Examinator A
+        Ingen kontakt med studenten, bara examinator och handledare.
+        Ger feedback som går till studenten via handledaren.
+
+    Examinatorerna har möte före varje examination. Som bedömmer arbetena
+    för att bestämma vart gränsen för G, VG osv.
+
+--------------------------------------------------------------------------------
+                                    Looper
+* Loop 1
+    Skapa samsyn, myndighetsutövning, summativ examination.
+* Loop 2
+    Skapa samsyn (mellan handled. och examinator), reda ut oklarheter.
+* Loop 3
+    Stödja lärande, formativ examination.
+
+--------------------------------------------------------------------------------
+                                    Lärare
+* Handledare
+    Du får egen handledare.
+    Din främsta resurs för att klara kursern, lyssna på hen!
+    Kompetens i vetenskapligt arbete och att skriva en akademisk rapport
+    Träffa handledaren regelbundet.
+    Diskutera även projektarbetet med handledare.
+* Examinator
+    Läser, bedömer och kommenterar inlämningar.
+    Sammanfattar kommentarer i examinationsprotokoll.
+    Du kommunicerar inte direkt med examinator utan via handledare.
+
+--------------------------------------------------------------------------------
+                                    Problem
+* Krav på problemet:
+    SKall förankras i forskning
+    Skall vara avgränsat och tydligt, genomförbart och motiverat
+* Problemet skall belysas med en undersökning där det praktiska blabla
+
+--------------------------------------------------------------------------------
+                                    Metod
+* Vetenskaplig metod
+    Hur uppstår "ny kunskap" inom ditt ämnesområde
+
+* Ni behöver inte bevisa effekt eller foska bara för att ni använder en
+vetenskaplig metod (inte krav att producera ny kunskap inom fältet)
+
+* Att funderar på utvärdering är en hjälp för att välja problem (+VS)
+
+*Exempel på metoder
+    Intervjuer
+    Enkäter
+    Användarstudier
+    Simuleringar
+
+--------------------------------------------------------------------------------
+                                Litteratur
+!!! Viktigt att hitta bra forskningslitteratur !!!
+
+* Kräver mycket mer än vanlig googling (t.om. Google scholars!)
+* Biblioteket är en resurs!
+
+* Teoretisk litteratur, översikt över området
+* Forskningen inom området, ämnet, fältet
+
+--------------------------------------------------------------------------------
+                                Grupparbete
+
+* Samarbete möjligt men alla ska ha individuella problem och rapporter
+* Viktigt att tänka på projektets koppling
+
+--------------------------------------------------------------------------------
+                            Externa uppdragsgivare
+* Problem från företag är ofta praktiskt välgrundade
+    * Forskningsanknytning krävs i exjobb - kan bli ditt eget ansvar
+      (kolla med företaget)
+* Viktigt att företaget inser att företagets problem och examenarbetets problem
+inte nödvändigtvis är samma sak.
+    * Du måste driva procesen till ett problem som fungerar till denna typ av
+      examensarbeten.
+    * Examensarbeten kan se väldigt olika ut.
+* Ibland kan företag kräva en rapport som inte täcks av examensarbetets rapport
+* Sekretess krävs ofta av företag men tänk på att examensarbeten aldrig kan vara
+  hemliga.
+
+--------------------------------------------------------------------------------
+                            Vad ska jag göra nu?
+* Börja fundera på vad du är intresserad av att arbeta med.
+* Diskutera & bolla idéer med andra.
+* Sök forskning.
+* Drick kaffe.
