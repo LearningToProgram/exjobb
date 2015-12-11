@@ -1,6 +1,9 @@
 Idé 1:
 Virtuella växter/varelser som evolveras fram.
-Bra information: http://aigamedev.com/open/article/evolving-virtual-creatures/
+Bra information: 	http://aigamedev.com/open/article/evolving-virtual-creatures/
+			http://aigamedev.com/open/review/creatures-ai/
+			http://aigamedev.com/open/review/thief-ai/
+			http://aigamedev.com/premium/interview/venture-alife/ - Need $59 / quarter membership
 
 Växtidén:
 	Olika växter som testar olika utformningar för att konkurrera om solljus. De växter som får bäst resultat (mest sol)  
