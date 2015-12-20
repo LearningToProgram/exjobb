@@ -12,7 +12,10 @@ Ekosystem:
 	http://his.diva-portal.org/smash/get/diva2:724350/FULLTEXT01.pdf
 Varelser:
 	Kolla länkarna under "Bra information".
-	
+
+Procedurellt genererade skogar i spel:
+	http://his.diva-portal.org/smash/get/diva2:2803/FULLTEXT01.pdf
+
 Bangenerering:
 	http://his.diva-portal.org/smash/get/diva2:819868/FULLTEXT01.pdf
 	http://his.diva-portal.org/smash/get/diva2:820348/FULLTEXT01.pdf
