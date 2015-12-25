@@ -20,7 +20,8 @@ Bangenerering:
 	http://his.diva-portal.org/smash/get/diva2:819868/FULLTEXT01.pdf
 	http://his.diva-portal.org/smash/get/diva2:820348/FULLTEXT01.pdf
 	http://his.diva-portal.org/smash/get/diva2:724214/FULLTEXT01.pdf
-
+	http://www.gamasutra.com/blogs/AAdonaac/20150903/252889/Procedural_Dungeon_Generation_Algorithm.php
+	
 http://his.diva-portal.org/smash/resultList.jsf?dswid=-9622&language=sv&searchType=UNDERGRADUATE&query=&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%7B%22educationalProgramId%22%3A%224771%22%7D%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&onlyFullText=true&sf=all
 
 Idébeskrivning av map generation AI:
