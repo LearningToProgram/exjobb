@@ -3,20 +3,39 @@ Bra information: 	http://aigamedev.com/open/article/evolving-virtual-creatures/
 			http://aigamedev.com/open/review/creatures-ai/
 			http://aigamedev.com/open/review/thief-ai/
 			http://aigamedev.com/premium/interview/venture-alife/ - Need $59 / quarter membership
-
+			
+Fraktal/Noise vs Polygonal Map Generation(2D eller 3D):
+	http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/
+	http://rosettacode.org/wiki/Voronoi_diagram
+	https://www.progfrog.co/projects/8-generating-3d-islands-in-unity/log/posts/4-part-1-voronoi-diagrams
+	https://prezi.com/pijcj8ckwhny/terrain-creation/
+	http://pcg.wikidot.com/pcg-algorithm:voronoi-diagram
+	http://pcg.wikidot.com/category-pcg-algorithms
+	http://community.vfs.com/arcade/2013/07/the-voronoi-diagram/
+	http://www.slickentertainment.com/?s=procedural+goodness
+	https://experilous.com/1/blog/post/procedural-planet-generation (Planeter)
+	http://people.cs.clemson.edu/~ematth2/data/slides/earlyResearch.pdf
+	
+	Idéen kan appliceras på t.ex. fantasy böcker där man vill generera en värld för storyn; eller rollspelsäventyr där
+	DM:en kan skapa en värld för att spara den som t.ex. en jpg för att ha en värld där äventyret utspelar sig. Eller
+	i spel som t.ex. City Skylines eller Sim City där en slumpad värld genereras som spelaren ska bygga upp.
+	
 Växtidén:
 	Olika växter som testar olika utformningar för att konkurrera om solljus. De växter som får bäst resultat (mest sol)  
 	evolveras vidare. Dåliga växter kaseras.
+	
+	Har inte hittat några länkar för detta riktigt än. Men växtidéen bygger på creature evolution idéen.
+	
 Ekosystem:
 	http://his.diva-portal.org/smash/get/diva2:723824/FULLTEXT01.pdf
 	http://his.diva-portal.org/smash/get/diva2:724350/FULLTEXT01.pdf
-Varelser:
-	Kolla länkarna under "Bra information".
-
+	
+	Generera ekosystem för spel.
+	
 Procedurellt genererade skogar i spel:
 	http://his.diva-portal.org/smash/get/diva2:2803/FULLTEXT01.pdf
 
-Bangenerering:
+Bangenerering (möjligvis faller det under samma som fraktal/noise [...] länkarna):
 	http://his.diva-portal.org/smash/get/diva2:819868/FULLTEXT01.pdf
 	http://his.diva-portal.org/smash/get/diva2:820348/FULLTEXT01.pdf
 	http://his.diva-portal.org/smash/get/diva2:724214/FULLTEXT01.pdf
@@ -24,6 +43,7 @@ Bangenerering:
 	
 http://his.diva-portal.org/smash/resultList.jsf?dswid=-9622&language=sv&searchType=UNDERGRADUATE&query=&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%7B%22educationalProgramId%22%3A%224771%22%7D%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&onlyFullText=true&sf=all
 
+Gammalt mail till Thieme. 
 Idébeskrivning av map generation AI:
 Tänkte bara fråga dig om vad du tror om denna idé.
 Jag skulle vilja göra ett exjobb med en AI som evolverar fram en världskarta i
